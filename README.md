@@ -14,7 +14,7 @@ NOTE:
 
 2. Check Kubernetes Dashboard run: 
 	- minikube dashboard 
-**Open command prompt in administration mode for the above command to work
+	- Open command prompt in administration mode for the above command to work
 --------------------------------------------------------------------------
 
 3. Deploy Selenium Hub on Kubernetes Pod:run
@@ -33,8 +33,8 @@ NOTE:
 
 6. Loading Selenium Grid Console:
 	- minikube service selenium-hub --url
-	**Take the first ip address and open this in any browser to see the console
-	**Give it some time for everything to get reflected
+	- Take the first ip address and open this in any browser to see the console
+	- Give it some time for everything to get reflected
 ------------------------------------------------------------------------------
 
 7. Run Samples of Selenium Grid codes from your local machine and see it getting executed on Kubernetes OR
