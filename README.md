@@ -37,7 +37,8 @@ NOTE:
 	**Give it some time for everything to get reflected
 ------------------------------------------------------------------------------
 
-7. Run Samples of Selenium Grid codes from your local machine and see it getting executed on Kubernetes
+7. Run Samples of Selenium Grid codes from your local machine and see it getting executed on Kubernetes OR
+   - Clone this repo and create a branch(s) to make necessary contribution
 ------------------------------------------------------------------------------
 
 8. Delete the selenium-hub, service and nodes from Kubernetes:
